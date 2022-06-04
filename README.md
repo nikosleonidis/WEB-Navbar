@@ -1,14 +1,17 @@
 # Navbar
  Animation Navbar
-<img width="1023" alt="Screenshot 2022-06-04 at 2 35 21 PM" src="https://user-images.githubusercontent.com/65124365/171997308-64b913c3-8d06-423d-8164-b31cbbccc683.png">
-<img width="1023" alt="Screenshot 2022-06-04 at 2 35 24 PM" src="https://user-images.githubusercontent.com/65124365/171997310-dea5fe6d-efa7-45c5-a196-c1fd4a793b84.png">
+
+<img width="1020" alt="Screenshot 2022-06-04 at 2 35 21 PM" src="https://user-images.githubusercontent.com/65124365/171997411-2508d983-2e33-4c47-9a54-ed8fcd5daa3b.png">
+<img width="1019" alt="Screenshot 2022-06-04 at 2 35 24 PM" src="https://user-images.githubusercontent.com/65124365/171997416-335f2ec0-0b30-47f8-a6ce-f7e9267a4a41.png">
 
 
-https://user-images.githubusercontent.com/65124365/171997311-6531e5a5-455a-49f4-acbf-260430350409.mov
-
-<img width="960" alt="Screenshot 2022-06-04 at 2 36 15 PM" src="https://user-images.githubusercontent.com/65124365/171997316-94f36f0f-2ff5-4a14-b82b-7f25af6ad9f0.png">
-<img width="960" alt="Screenshot 2022-06-04 at 2 36 24 PM" src="https://user-images.githubusercontent.com/65124365/171997318-4d65f5e2-b7ca-4822-b4b1-14a2a692794d.png">
+https://user-images.githubusercontent.com/65124365/171997568-2a507571-ca7b-4298-a843-de60563b39dc.mp4
 
 
-https://user-images.githubusercontent.com/65124365/171997321-d58acbff-1725-4e29-bb73-27796d0408d5.mov
+
+<img width="956" alt="Screenshot 2022-06-04 at 2 36 15 PM" src="https://user-images.githubusercontent.com/65124365/171997572-a563ad7b-1b87-40af-b8ef-9a1f4820daa2.png">
+<img width="955" alt="Screenshot 2022-06-04 at 2 36 24 PM" src="https://user-images.githubusercontent.com/65124365/171997574-ab02bf19-a029-4dea-a059-96e5a01c1371.png">
+
+
+https://user-images.githubusercontent.com/65124365/171997578-ca8403f0-38e6-4009-a611-34057bb5e871.mp4
 
